@@ -42,9 +42,9 @@
 
 ## ✍️ 제작자
 
-- **이연호 (dush)**
-- GitHub: [@dldush](https://github.com/dldush)
-- Email: leecarus0301@naver.com
+- **이미림 (riming)**
+- GitHub: [@12ing](https://github.com/12ing)
+- Email: lll123kong@naver.com
 
 ---
 
